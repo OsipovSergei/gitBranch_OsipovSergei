@@ -1,1 +1,2 @@
 This line contains first lines of project
+Added second line of text in second branch 
